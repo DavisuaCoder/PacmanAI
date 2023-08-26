@@ -1,5 +1,5 @@
 # PacmanAI
-<center><img src="/public/images/icon/android-chrome-512x512.png" align="center"/></center>
+<center><img src="pacman.jpg" align="center"/></center>
 
 ### About
 - Experience gaming evolution with Autonomous PacBot: a Reinforcement Learning-powered Pacman agent. Watch as it navigates mazes, evades ghosts, and maximizes scores autonomously. Dive into AI-driven gameplay and witness the fusion of classic gaming with cutting-edge technology
@@ -11,7 +11,7 @@
 
 - Clone this repo:
 ```
-git clone https://github.com/DavisuaCoder/DavidPortafolio.git
+git clone https://github.com/DavisuaCoder/PacmanAI.git
 ```
 
 - Install all the dependencies:
