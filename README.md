@@ -11,19 +11,11 @@
 git clone https://github.com/DavisuaCoder/PacmanAI.git
 ```
 
-- Install all the dependencies:
-```
-npm install
-```
-
-- Run the project:
-```
-npm run dev
-```
-
-> Edit all my information & deploy.
-
----
-
 ### Any bugs?
 - Please kindly to [contact me](https://github.com/DavisuaCoder) or help me to fix the bugs by contributing to this repository. Thank you in advance!
+
+- ## Participants
+David Álvarez Perales - [@DavisuaCoder](https://github.com/DavisuaCoder)  
+Juan Manuel Fernandez Bustos
+
+
